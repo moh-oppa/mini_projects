@@ -2,5 +2,6 @@ RECIPE
 
 Flour
 Yeast
+Heat 250 C
 Water
 Sugar
